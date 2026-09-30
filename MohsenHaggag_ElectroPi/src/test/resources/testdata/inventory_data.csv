@@ -1,0 +1,6 @@
+productName,price,expectedResult
+Wireless Mouse,25.00,SUCCESS
+Bluetooth Keyboard,45.50,SUCCESS
+USB-C Hub,0,SUCCESS
+,30.00,VALIDATION_ERROR
+Gaming Headset,-15.00,VALIDATION_ERROR
